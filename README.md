@@ -1,4 +1,4 @@
-# Vaka Çalışmaso : Ürün Servisi
+# Vaka Çalışması : Ürün Servisi
 
 Kullanılan Teknolojiler:
 Java,Spring Boot,Spring Web,Hibernate,PostgraSQL,Postman,DBeaver,Docker
